@@ -1,0 +1,20 @@
+Preferrendce -》 java -》Code Stytle -》Code Templete -》选择你的工程
+修改以下两个模板
+Methods
+/**
+ * @方法描述：
+ * ${tags}
+ */
+
+Types
+
+/**
+ * @项目名称：穿越客
+ * @类名称：       ${file_name}
+ * @类描述:
+ * @创建人：     Sioux
+ * @创建时间：${date}${time}
+ * @修改人：     Sioux
+ * @修改时间：${date}${time}
+ * @version
+ */
